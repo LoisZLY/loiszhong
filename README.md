@@ -25,7 +25,7 @@ python3 iceland_aurora_animation.py
 - Customizable color palette and animation parameters
 
 ## Preview
-![Aurora Animation Example](example.png)
+![Aurora Animation Example](![WechatIMG152](https://github.com/user-attachments/assets/a5124df6-717b-408d-9455-f68c87d82e00))
 
 ## License
 MIT
